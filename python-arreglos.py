@@ -17,6 +17,7 @@ for cat in range(len(arreglos)):
         print(cat)
         # imprime "g"
         print(arreglos[cat])  # arreglos[2]
+        # imprime lo que compro "g" ("Compras de g")
         print(compra[cat])  # compra[2]
 
 # Otra forma de Busqueda:
